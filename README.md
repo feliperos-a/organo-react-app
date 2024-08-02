@@ -45,3 +45,9 @@ Siga estas etapas para configurar o projeto localmente:
 📧 **E-mail:** [felipe.rosa@outlook.com](mailto:felipe.rosa@outlook.com)  
 📞 **Telefone:** (49) 99994-1061  
 🔗 **LinkedIn:** [Visite meu perfil](https://www.linkedin.com/in/ifeliperosa/)  
+
+## :camera: Captura de Tela
+
+Aqui está uma captura de tela da aplicação:
+
+![Captura de Tela](https://i.imgur.com/CIhVd7o.png)
